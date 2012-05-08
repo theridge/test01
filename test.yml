@@ -33,3 +33,8 @@ production:
   host: localhost
   database: questo_invece_e_produzione
   <<: *login # ma con stesse credenziali
+Test table:
+  - { name: Ridge, age: 36}
+  - { name: Rick,  age: 35}
+  - { name: Paul,  age: 6}
+  - { name: Blank, age: 2}
