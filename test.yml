@@ -1,3 +1,8 @@
+# to visualize this:
+# install sakura: https://github.com/palladius/sakura
+# then type this:
+#   h ./test.yml 
+# And try customizing the colors in _conf! :-)
 _conf:
  colors: 
     title:    brown
